@@ -7,19 +7,9 @@
         <a href="index.php">
         <img src="img/Department_Logo.svg" id="department-logo" alt="" />
 </a>
-        <!--
-        <h2>
-            Mathematics <br />
-            & Statistics
-        </h2>
--->
     </header>
     <nav>
-        <div id="mini-logo">
-            <a href="index.php">
-            <img src="img/Department_Logo_mini.svg" alt="">
-</a>
-        </div>
+        
         <div class="toggle">
             <h3>MENU</h3>
             <i class="fas fa-bars fa-2x menu"></i>

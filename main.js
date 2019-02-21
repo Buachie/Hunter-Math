@@ -7,6 +7,7 @@ $(document).ready(function () {
         $(this).children(".dropdown-content").slideToggle(300);
     });
 
+
     $(".menu").click(function () {
         // $("nav ul").toggleClass("active");
         $(".menu-nav").slideToggle(300);
@@ -18,8 +19,4 @@ $(document).ready(function () {
         }
     });
 
-    var pos = nav.position;
-    while ((pos.top) == 0) {
-        $("#mini-logo").toggleClass(".show");
-    };
 });

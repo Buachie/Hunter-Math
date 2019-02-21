@@ -4,26 +4,26 @@
 <head>
     <meta charset="utf-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <title>Mathematics and Statistics - Hunter College</title>
+    <title>Mathematics and Statistics - Hunter Full Time Faculty</title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="stylesheet" type="text/css" media="screen" href="main.css" />
     <link rel="apple-touch-icon" sizes="57x57" href="favicons/apple-icon-57x57.png">
-<link rel="apple-touch-icon" sizes="60x60" href="favicons/apple-icon-60x60.png">
-<link rel="apple-touch-icon" sizes="72x72" href="favicons/apple-icon-72x72.png">
-<link rel="apple-touch-icon" sizes="76x76" href="favicons/apple-icon-76x76.png">
-<link rel="apple-touch-icon" sizes="114x114" href="favicons/apple-icon-114x114.png">
-<link rel="apple-touch-icon" sizes="120x120" href="favicons/apple-icon-120x120.png">
-<link rel="apple-touch-icon" sizes="144x144" href="favicons/apple-icon-144x144.png">
-<link rel="apple-touch-icon" sizes="152x152" href="favicons/apple-icon-152x152.png">
-<link rel="apple-touch-icon" sizes="180x180" href="favicons/apple-icon-180x180.png">
-<link rel="icon" type="image/png" sizes="192x192"  href="favicons/android-icon-192x192.png">
-<link rel="icon" type="image/png" sizes="32x32" href="favicons/favicon-32x32.png">
-<link rel="icon" type="image/png" sizes="96x96" href="favicons/favicon-96x96.png">
-<link rel="icon" type="image/png" sizes="16x16" href="favicons/favicon-16x16.png">
-<link rel="manifest" href="/manifest.json">
-<meta name="msapplication-TileColor" content="#ffffff">
-<meta name="msapplication-TileImage" content="favicons/ms-icon-144x144.png">
-<meta name="theme-color" content="#ffffff">
+    <link rel="apple-touch-icon" sizes="60x60" href="favicons/apple-icon-60x60.png">
+    <link rel="apple-touch-icon" sizes="72x72" href="favicons/apple-icon-72x72.png">
+    <link rel="apple-touch-icon" sizes="76x76" href="favicons/apple-icon-76x76.png">
+    <link rel="apple-touch-icon" sizes="114x114" href="favicons/apple-icon-114x114.png">
+    <link rel="apple-touch-icon" sizes="120x120" href="favicons/apple-icon-120x120.png">
+    <link rel="apple-touch-icon" sizes="144x144" href="favicons/apple-icon-144x144.png">
+    <link rel="apple-touch-icon" sizes="152x152" href="favicons/apple-icon-152x152.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="favicons/apple-icon-180x180.png">
+    <link rel="icon" type="image/png" sizes="192x192"  href="favicons/android-icon-192x192.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="favicons/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="96x96" href="favicons/favicon-96x96.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="favicons/favicon-16x16.png">
+    <link rel="manifest" href="/manifest.json">
+    <meta name="msapplication-TileColor" content="#ffffff">
+    <meta name="msapplication-TileImage" content="favicons/ms-icon-144x144.png">
+    <meta name="theme-color" content="#ffffff">
     <link href="https://fonts.googleapis.com/css?family=Open+Sans|Proza+Libre" rel="stylesheet">
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.5.0/css/all.css" integrity="sha384-B4dIYHKNBt8Bc12p+WXckhzcICo0wtJAoU8YZTY5qE0Id1GSseTk6S+L3BlXeVIU" crossorigin="anonymous">
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
@@ -41,7 +41,7 @@ readfile("nav.php");
                 <br>
                 Phone: (212)-772-5311
                 <br>
-                E-mail: ara.basmajian@hunter.cuny.edu
+                E-mail: <a href="ara.basmajian@hunter.cuny.edu">ara.basmajian@hunter.cuny.edu</a>
                 <br>
                 Site: <a href=" http://wfs.gc.cuny.edu/ABasmajian/www/"> http://wfs.gc.cuny.edu/ABasmajian/www/</a>
             </p>
@@ -52,7 +52,7 @@ readfile("nav.php");
                 <br>
                 Phone: (212)-772-5374
                 <br>
-                E-mail: mbenders@hunter.cuny.edu
+                E-mail: <a href="mbenders@hunter.cuny.edu">mbenders@hunter.cuny.edu</a>
                 <br>
                 Site: <a href="http://math.hunter.cuny.edu/~mbenders"> http://math.hunter.cuny.edu/~mbenders</a>
             </p>
@@ -63,7 +63,7 @@ readfile("nav.php");
                 <br>
                 Phone: (212)-396-6043
                 <br>
-                E-mail: pburke@hunter.cuny.edu
+                E-mail: <a href="pburke@hunter.cuny.edu">pburke@hunter.cuny.edu</a>
             </p>
         </div>
         <div class="contact-info">
@@ -74,7 +74,7 @@ readfile("nav.php");
                 <br>
                 Phone: (212)-772-5741
                 <br>
-                E-mail: bcherkas@hunter.cuny.edu
+                E-mail: <a href="bcherkas@hunter.cuny.edu">bcherkas@hunter.cuny.edu</a>
                 <br>
                 Site: <a href="http://math.hunter.cuny.edu/~bcherkas">http://math.hunter.cuny.edu/~bcherkas</a>
             </p>
@@ -85,7 +85,7 @@ readfile("nav.php");
                 <br>
                 Phone: (212)-772-5750
                 <br>
-                E-mail: dchess@hunter.cuny.edu
+                E-mail: <a href="dchess@hunter.cuny.edu">dchess@hunter.cuny.edu</a>
             </p>
         </div>
         <div class="contact-info">
@@ -94,7 +94,7 @@ readfile("nav.php");
                 <br>
                 Phone: (212)-772-5304
                 <br>
-                E-mail: richard.churchill@hunter.cuny.edu
+                E-mail: <a href="richard.churchill@hunter.cuny.edu">richard.churchill@hunter.cuny.edu</a>
             </p>
         </div>
         <div class="contact-info">
@@ -103,7 +103,7 @@ readfile("nav.php");
                 <br>
                 Phone: (212)-772-4904
                 <br>
-                E-mail: sandra.clarkson@hunter.cuny.edu
+                E-mail: <a href="sandra.clarkson@hunter.cuny.edu">sandra.clarkson@hunter.cuny.edu</a>
             </p>
         </div>
         <div class="contact-info">
@@ -112,7 +112,7 @@ readfile("nav.php");
                 <br>
                 Phone: (212)-772-5770
                 <br>
-                E-mail: lcroom@hunter.cuny.edu
+                E-mail: <a href="lcroom@hunter.cuny.edu">lcroom@hunter.cuny.edu</a>
             </p>
         </div>
         <div class="contact-info">
@@ -121,7 +121,7 @@ readfile("nav.php");
                 <br>
                 Phone: (212)-396-6042
                 <br>
-                E-mail: sgentile@hunter.cuny.edu
+                E-mail: <a href="sgentile@hunter.cuny.edu">sgentile@hunter.cuny.edu</a>
             </p>
         </div>
         <div class="contact-info">
@@ -130,7 +130,7 @@ readfile("nav.php");
                 <br>
                 Phone: (212)-772-4715
                 <br>
-                E-mail: olympia.hadjiliadis@gmail.com
+                E-mail: <a href="olympia.hadjiliadis@gmail.com">olympia.hadjiliadis@gmail.com</a>
             </p>
         </div>
         <div class="contact-info">
@@ -139,7 +139,7 @@ readfile("nav.php");
                 <br>
                 Phone: (212)-772-5303
                 <br>
-                E-mail: ik535@hunter.cuny.edu
+                E-mail: <a href="ik535@hunter.cuny.edu">ik535@hunter.cuny.edu</a>
                 <br>
                 Site: <a href="http://math.hunter.cuny.edu/ilyakapo">http://math.hunter.cuny.edu/ilyakapo</a>
             </p>
@@ -152,7 +152,7 @@ readfile("nav.php");
                 <br>
                 Phone: (212)-772-4694
                 <br>
-                E-mail: okharlampovich@gmail.com
+                E-mail: <a href="okharlampovich@gmail.com">okharlampovich@gmail.com</a>
                 <br>
                 Site: <a href="http://math.hunter.cuny.edu/olgak">http://math.hunter.cuny.edu/olgak</a>
             </p>
@@ -163,7 +163,7 @@ readfile("nav.php");
                 <br>
                 Phone: (212)-772-5308
                 <br>
-                E-mail: tk20@hunter.cuny.edu
+                E-mail: <a href="tk20@hunter.cuny.edu">tk20@hunter.cuny.edu</a>
             </p>
         </div>
         <div class="contact-info">
@@ -172,7 +172,7 @@ readfile("nav.php");
                 <br>
                 Phone: (212)-772-4600
                 <br>
-                E-mail: jloustau@ msn.com
+                E-mail: <a href="jloustau@ msn.com">jloustau@ msn.com</a>
             </p>
         </div>
         <div class="contact-info">
@@ -183,7 +183,7 @@ readfile("nav.php");
                 <br>
                 Phone: (212)-772-5791
                 <br>
-                E-mail: vrmartinez@hunter.cuny.edu
+                E-mail: <a href="vrmartinez@hunter.cuny.edu">vrmartinez@hunter.cuny.edu</a>
             </p>
         </div>
         <div class="contact-info">
@@ -192,7 +192,7 @@ readfile("nav.php");
                 <br>
                 Phone: (212)-396-6040
                 <br>
-                E-mail: chunpan2003@hotmail.com
+                E-mail: <a href="chunpan2003@hotmail.com">chunpan2003@hotmail.com</a>
             </p>
         </div>
         <div class="contact-info">
@@ -201,7 +201,7 @@ readfile("nav.php");
                 <br>
                 Phone: (212)-772-5476
                 <br>
-                E-mail: msamra@hunter.cuny.edu
+                E-mail: <a href="msamra@hunter.cuny.edu">msamra@hunter.cuny.edu</a>
             </p>
         </div>
         <div class="contact-info">
@@ -210,7 +210,7 @@ readfile("nav.php");
                 <br>
                 Phone: (212)-772-5769
                 <br>
-                E-mail: vsegarra@hunter.cuny.edu
+                E-mail: <a href="vsegarra@hunter.cuny.edu">vsegarra@hunter.cuny.edu</a>
             </p>
         </div>
         <div class="contact-info">
@@ -220,7 +220,7 @@ readfile("nav.php");
                 <br>
                 Phone: (212)-772-5378
                 <br>
-                E-mail: bshay@hunter.cuny.edu
+                E-mail: <a href="bshay@hunter.cuny.edu">bshay@hunter.cuny.edu</a>
             </p>
         </div>
         <div class="contact-info">
@@ -229,7 +229,7 @@ readfile("nav.php");
                 <br>
                 Phone: (212)-650-3633
                 <br>
-                E-mail: lev.shneerson@hunter.cuny.edu
+                E-mail: <a href="lev.shneerson@hunter.cuny.edu">lev.shneerson@hunter.cuny.edu</a>
             </p>
         </div>
         <div class="contact-info">
@@ -238,7 +238,7 @@ readfile("nav.php");
                 <br>
                 Phone: (212)-772-5748
                 <br>
-                E-mail: dsylvan@hunter.cuny.edu
+                E-mail: <a href="dsylvan@hunter.cuny.edu">dsylvan@hunter.cuny.edu</a>
             </p>
         </div>
         <div class="contact-info">
@@ -247,7 +247,7 @@ readfile("nav.php");
                 <br>
                 Phone: (212)-650-3831
                 <br>
-                E-mail: robert.thompson@hunter.cuny.edu
+                E-mail: <a href="robert.thompson@hunter.cuny.edu">robert.thompson@hunter.cuny.edu</a>
                 <br>
                 Site: <a href="http://math.hunter.cuny.edu/~rthompso">http://math.hunter.cuny.edu/~rthompso</a>
             </p>
@@ -258,7 +258,7 @@ readfile("nav.php");
                 <br>
                 Phone: (212)-772-4656
                 <br>
-                E-mail: bill.williams@hunter.cuny.edu
+                E-mail: <a href="bill.williams@hunter.cuny.edu">bill.williams@hunter.cuny.edu</a>
             </p>
         </div>
     </div>
